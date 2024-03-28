@@ -1,5 +1,6 @@
-#déclencheur:
- # - principal
+déclencheur:
+
+- principal
 pool:
   vmImage: ubuntu-lastest
 variables:
